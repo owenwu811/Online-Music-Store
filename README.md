@@ -1,2 +1,2 @@
 # Online-Music-Store
-My algorithm is aimed at increasing sales for an online music store. 
+My algorithm is aimed at increasing sales for an online music store. The idea is that this model can take in data from various sources and accurately match, to a certain degree of accuracy, the gender and age of a person to a genre of music. The accuracy is measured by a number between 0 and 1, and I found that, the more input data you feed the model (the more data you allocate towards the training set for training the model), the more accurate the predictions tended to be. 
